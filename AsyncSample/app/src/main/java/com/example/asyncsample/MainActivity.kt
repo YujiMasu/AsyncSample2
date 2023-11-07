@@ -23,6 +23,7 @@ import java.util.concurrent.Executors
 
 class MainActivity : AppCompatActivity() {
 
+    
     companion object{
         private const val DEBUG_TAG = "MSD"
         private const val WEATHERINFO_URL = "https://api.openweathermap.org/data/2.5/weather?lang=ja"
